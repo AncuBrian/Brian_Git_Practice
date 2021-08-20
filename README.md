@@ -11,7 +11,8 @@ First try in git Hub
 ## Further learning
 * 研究更多與電子元件、自動控制相關的應用，嘗試再做一些有趣的電子設備。
 
-## [USB音響專案執行成果影片](https://youtu.be/RaUpvci0fTo)
+## [USB音響專案執行成果影片]
+(https://youtu.be/RaUpvci0fTo)
 
 
 ## USB音響專案執行過程照片
