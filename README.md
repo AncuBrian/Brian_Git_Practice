@@ -13,4 +13,6 @@ First try in git Hub
 
 ## [USB音響專案執行成果影片](https://youtu.be/RaUpvci0fTo)
 
-![](Link)
+
+## USB音響專案執行過程照片
+![](https://github.com/AncuBrian/Brian_Git_Practice/blob/main/USB%E9%9F%B3%E9%9F%BF%E8%A3%BD%E4%BD%9C_02.jpg)
